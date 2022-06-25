@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NothingJustBlank</h1>
-<h3 align="center">This readme is generated from the Internet</h3>
+<h3 align="center">Welcome to my GitHub page!</h3>
 
-- ⚡ Fun fact: **Everything is self-taught**
+- ⚡ Fun fact: **I just bash my keyboard and write some codes.**
 
 <p align="left">
 </p>
